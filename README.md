@@ -3,6 +3,8 @@ Peanut Butter Vector Display
 
 This repository contains the documentation, code, and bill of materials (BOM) necessary to create a luminous display using peanut butter as a cost-effective and renewable display material.
 
+I am in the process of moving all documentation into the [PBVD Wiki](https://github.com/scottvr/PBVD/wiki)
+
 ## Project Overview
 
 The PBVD utilizes a 405nm diode laser to create luminous patterns within a peanut butter-filled display case. By harnessing the phosphorescent/flourescent properties of peanut butter, this project aims to demonstrate a novel approach to vector display technology.
