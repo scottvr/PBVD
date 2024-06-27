@@ -10,7 +10,7 @@ I am in the process of moving all documentation into the [PBVD Wiki](https://git
 The PBVD utilizes a 405nm diode laser to create luminous patterns within a peanut butter-filled display case. By harnessing the phosphorescent/flourescent properties of peanut butter, this project aims to demonstrate a novel approach to vector display technology.
 
 For details, status, and history, check out the [PBVD wiki](https://github.com/scottvr/PBVD/wiki/PBVD-blog), which I will be using as a sort of blog. 
-## Components
+## System Components
 
 - **Display Case**: A 25 cm x 17.5 cm x 5 cm rectangular prism made of plexiglass or a similar transparent material.
 - **Laser Module**: A 200mW 405nm diode laser.
@@ -18,7 +18,7 @@ For details, status, and history, check out the [PBVD wiki](https://github.com/s
 - **Control Unit**: An Arduino or similar microcontroller to drive the motors and control the laser.
 - **Peanut Butter**: For initial experiments, we recommend a consumer brand such as Peter Pan due to its cost-effectiveness.
 
-## Requisite Materials
+## Build Materials
 
 - **Display Case Material**: Plexiglass, 25 cm x 17.5 cm x 5 cm
 - **405nm Diode Laser**: 200mW
