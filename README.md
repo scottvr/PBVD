@@ -48,9 +48,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ---
 
-Explore the potential of peanut butter in display technology and join us in this creative and humorous journey!
-
----
-
 ![PBVD Prototype](images/pbvd_prototype.jpg)
 
