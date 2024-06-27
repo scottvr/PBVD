@@ -29,7 +29,7 @@ For details, status, and history, check out the [PBVD wiki](https://github.com/s
 - **Wiring and Connectors**: Assorted wires and connectors
 - **Peanut Butter**: Approximately 2.4 kg
 
-A full BOM will be in the project directory. 
+A full BOM will be in the ~~project directory~~[Wiki - BOM](https://github.com/scottvr/PBVD/wiki/BOM)
 
 ## Arduino Code
 
