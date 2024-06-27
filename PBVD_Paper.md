@@ -8,9 +8,9 @@ The PBVD represents a groundbreaking advancement in display technology, harnessi
 ## Technical Background
 ### Photophysical Properties of Peanut Butter
 Peanut butter, a complex colloidal system composed primarily of proteins, lipids, and phenolic compounds, has been observed to exhibit short-lived luminescence under specific wavelengths of light. The primary mechanisms believed to contribute to this phenomenon are:
-
-### Phosphorescence of Phenolic Compounds: Phenolic compounds, such as those found in peanut butter, can exhibit phosphorescence, a type of photoluminescence related to the emission of light from a substance that has absorbed photons.
-Delayed Luminescence of Lipids: Certain lipid structures within peanut butter may exhibit delayed luminescence, a phenomenon where absorbed energy is re-emitted over a prolonged period.
+- Phosphorescence of Phenolic Compounds: 
+Phenolic compounds, such as those found in peanut butter, can exhibit phosphorescence, a type of photoluminescence related to the emission of light from a substance that has absorbed photons.
+- Delayed Luminescence of Lipids: Certain lipid structures within peanut butter may exhibit delayed luminescence, a phenomenon where absorbed energy is re-emitted over a prolonged period.
 
 ## Design Considerations
 ### Frame Construction
