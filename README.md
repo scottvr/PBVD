@@ -3,32 +3,11 @@ Peanut Butter Vector Display
 
 This repository contains the documentation, code, and bill of materials (BOM) necessary to create a luminous display using peanut butter as a cost-effective and renewable display material.
 
-I am in the process of moving all documentation into the [PBVD Wiki](https://github.com/scottvr/PBVD/wiki)
+I am in the process of moving all documentation into the 
 
-## Project Overview
+# [PBVD Wiki](https://github.com/scottvr/PBVD/wiki)
 
-The PBVD utilizes a 405nm diode laser to create luminous patterns within a peanut butter-filled display case. By harnessing the phosphorescent/flourescent properties of peanut butter, this project aims to demonstrate a novel approach to vector display technology.
-
-## System Components
-
-- **Display Case**: A 25 cm x 17.5 cm x 5 cm rectangular prism made of plexiglass or a similar transparent material.
-- **Laser Module**: A 200mW 405nm diode laser.
-- **Mechanical Yoke**: An x/y axis mechanical yoke for precise laser positioning.
-- **Control Unit**: An Arduino or similar microcontroller to drive the motors and control the laser.
-- **Peanut Butter**: For initial experiments, we recommend a consumer brand such as Peter Pan due to its cost-effectiveness.
-
-## Build Materials
-
-- **Display Case Material**: Plexiglass, 25 cm x 17.5 cm x 5 cm
-- **405nm Diode Laser**: 200mW
-- **Stepper Motors**: 2x NEMA 17 stepper motors
-- **Arduino Uno**: 1x Arduino Uno microcontroller
-- **Motor Drivers**: 2x A4988 stepper motor drivers
-- **Power Supply**: 12V 2A power supply
-- **Wiring and Connectors**: Assorted wires and connectors
-- **Peanut Butter**: Approximately 2.4 kg
-
-A full BOM will be in the ~~project directory~~[Wiki - BOM](https://github.com/scottvr/PBVD/wiki/BOM)
+[Wiki - BOM](https://github.com/scottvr/PBVD/wiki/BOM)
 
 ## Arduino Code
 
@@ -36,7 +15,7 @@ The Arduino sketch for controlling the PBVD is included in the `code` directory.
 
 ## Assembly Instructions
 
-Detailed assembly instructions are provided in the `docs` directory. These instructions cover the setup of the display case, the mounting of the laser module, and the wiring of the control unit.
+Have moved to the wiki. 
 
 ## Future Exploration
 
