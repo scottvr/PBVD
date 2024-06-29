@@ -1,5 +1,4 @@
-# PBVD
-Peanut Butter Vector Display
+# Design and Implementation of a Peanut Butter Vector Display (PBVD)
 
 This repository contains the documentation, code, and bill of materials (BOM) necessary to create a luminous display using peanut butter as a cost-effective and renewable display material.
 
