@@ -6,7 +6,7 @@ I am in the process of moving all documentation into the
 
 # [PBVD Wiki](https://github.com/scottvr/PBVD/wiki)
 
-[Wiki - BOM](https://github.com/scottvr/PBVD/wiki/BOM)
+[Wiki - BOM](https://github.com/scottvr/PBVD/wiki/Ch-0.--BOM)
 
 ## Arduino Code
 
