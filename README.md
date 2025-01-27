@@ -12,6 +12,8 @@ I am in the process of moving all documentation into the
 
 The Arduino sketch for controlling the PBVD is included in the `code` directory. The sketch controls the x/y movement of the laser and the activation of the laser module.
 
+(Note: this is code for a raster "vector" display driver.  For *real* vector display, consider using the audio signal driven flyback yoke described in the assembly documenta.)
+
 ## Assembly Instructions
 
 Have moved to the wiki. 
