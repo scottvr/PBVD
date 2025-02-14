@@ -16,7 +16,7 @@ The Arduino sketch for controlling the PBVD is included in the `code` directory.
 
 ## Assembly Instructions
 
-Have moved to the wiki. 
+Have moved to [the wiki.](https://github.com/scottvr/PBVD/wiki)
 
 ## Future Exploration
 
