@@ -20,7 +20,7 @@ Have moved to the wiki.
 
 ## Future Exploration
 
-As an exercise for the reader, we propose an investigation into the luminosity-to-dollar ratio among various consumer brands of peanut butter, including a comparison with the NIST Standard Reference Material 2387. This analysis involves measuring the luminous intensity, calculating the cost per unit weight, and determining the luminosity per dollar for each brand.
+As an exercise for the reader, we propose an investigation into the luminosity-to-dollar ratio among various consumer brands of peanut butter, including a comparison with the [NIST Standard Reference Material 2387.](https://shop.nist.gov/ccrz__ProductDetails?sku=2387) This analysis involves measuring the luminous intensity, calculating the cost per unit weight, and determining the luminosity per dollar for each brand.
 
 ## Contributing
 
