@@ -2,7 +2,7 @@
 
 This repository contains the documentation, code, and bill of materials (BOM) necessary to create a luminous display using peanut butter as a cost-effective and renewable display material.
 
-Buikd process details and the original paper have moved to the 
+Build process details and the original paper have moved to the 
 
 # [PBVD Wiki](https://github.com/scottvr/PBVD/wiki)
 
