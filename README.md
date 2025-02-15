@@ -22,7 +22,9 @@ Have moved to [the wiki.](https://github.com/scottvr/PBVD/wiki)
 
 As an exercise for the reader, we propose an investigation into the luminosity-to-dollar ratio among various consumer brands of peanut butter, including a comparison with the [NIST Standard Reference Material 2387.](https://shop.nist.gov/ccrz__ProductDetails?sku=2387) This analysis involves measuring the luminous intensity, calculating the cost per unit weight, and determining the luminosity per dollar for each brand.
 
-For example on a cost-only basis comparison, at the time of this update, to acquire enough NIST standard peanut butter (which is sold in packs of 3 x 170g jars, of which you would need a quantity four order) to approximately fill the volume of the described enclosure would come at a cost of  $4868.00 USD. A gallon bucket of "Barney Butter" currently lists for $45.99 USD on Amazon.com. The price per gram is a simple calculation, but without quantifying luminosity, we cannot put a value on the price/performance ratio. This is an area in much need of this important research. 
+For example on a cost-only basis comparison, at the time of this update, the aquisition cost of NIST standard peanut butter (which is sold in packs of 3 x 170g jars, of which you would need a quantity four order) to approximately fill the volume of the described enclosure would come at a cost of  $4868.00 USD. A gallon bucket of "Barney Butter" currently lists for $45.99 USD on Amazon.com. Is it worth the  price difference for the standardized PB? 
+
+The price per gram is a simple calculation, but without quantifying luminosity, we cannot put a value on the price/performance ratio. This is an area in much need of this important research. 
 
 ## Contributing
 
