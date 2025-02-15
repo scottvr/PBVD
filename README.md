@@ -30,7 +30,7 @@ The price per gram is a simple calculation, but without quantifying luminosity, 
 
 ### Cryonic PBVD
 
-It is well-established that chilled peanut butter will emit a brighter-appearing light (a sustained period of luminosity correlating.) This is an area ripe for research. What is the optimal temperature of the pranut butter display substrate for metrics such as response time, ghosting, fade time, brightness, etc. Some experimental evidence  exists (i.e., on YouTube) demonstrating the effect of liquid nitrogen-cooled PB display substrate, but measurement data is sparse. 
+It is well-established that chilled peanut butter will emit a brighter-appearing light (a sustained period of luminosity correlating.) This is an area ripe for research. What is the optimal temperature of the peanut butter display substrate for metrics such as response time, ghosting, fade time, brightness, etc. Some experimental evidence  exists (i.e., on YouTube) demonstrating the effect of liquid nitrogen-cooled PB display substrate, but measurement data is sparse. 
 
 ## Contributing
 
